@@ -3,7 +3,7 @@ package errors_test
 import (
 	"testing"
 
-	"github.com/sanbsy/goby/errors"
+	"github.com/sanbsy/gopkg/errors"
 )
 
 func BenchmarkNewError(b *testing.B) {

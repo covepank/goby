@@ -1,1 +1,1 @@
-package goby
+package gopkg

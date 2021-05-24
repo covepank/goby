@@ -12,7 +12,7 @@ import (
 	"encoding/base64"
 	"math/big"
 
-	"github.com/sanbsy/goby/errors"
+	"github.com/sanbsy/gopkg/errors"
 )
 
 const (

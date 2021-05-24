@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/sanbsy/goby/log"
+	"github.com/sanbsy/gopkg/log"
 )
 
 // Runner 异步运行器

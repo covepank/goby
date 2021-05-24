@@ -6,7 +6,7 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 
-	"github.com/sanbsy/goby/errors"
+	"github.com/sanbsy/gopkg/errors"
 )
 
 var (

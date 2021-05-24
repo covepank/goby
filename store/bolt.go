@@ -3,7 +3,7 @@ package store
 import (
 	"fmt"
 
-	"github.com/sanbsy/goby/internal/idx"
+	"github.com/sanbsy/gopkg/internal/idx"
 	bolt "go.etcd.io/bbolt"
 )
 

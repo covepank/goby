@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/sanbsy/goby/bufferpool"
+	"github.com/sanbsy/gopkg/bufferpool"
 )
 
 var (

@@ -5,7 +5,7 @@ import (
 	"database/sql"
 
 	"github.com/didi/gendry/builder"
-	"github.com/sanbsy/goby/internal/idx"
+	"github.com/sanbsy/gopkg/internal/idx"
 )
 
 type (

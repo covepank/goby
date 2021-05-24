@@ -8,7 +8,7 @@ import (
 
 	"github.com/didi/gendry/scanner"
 
-	"github.com/sanbsy/goby/internal/strs"
+	"github.com/sanbsy/gopkg/internal/strs"
 )
 
 // Mapping 将结构体转换成 map

@@ -5,7 +5,7 @@ import (
 
 	"github.com/didi/gendry/scanner"
 
-	"github.com/sanbsy/goby/errors"
+	"github.com/sanbsy/gopkg/errors"
 )
 
 type Fruit struct {

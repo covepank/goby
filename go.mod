@@ -1,4 +1,4 @@
-module github.com/sanbsy/goby
+module github.com/sanbsy/gopkg
 
 go 1.15
 

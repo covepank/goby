@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sanbsy/goby/bufferpool"
+	"github.com/sanbsy/gopkg/bufferpool"
 )
 
 type (

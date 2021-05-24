@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/sanbsy/goby/async"
+	"github.com/sanbsy/gopkg/async"
 )
 
 func BenchmarkConMap_Set(b *testing.B) {

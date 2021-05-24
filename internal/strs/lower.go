@@ -1,7 +1,7 @@
 package strs
 
 import (
-	"github.com/sanbsy/goby/bufferpool"
+	"github.com/sanbsy/gopkg/bufferpool"
 )
 
 func LowerName(name string) string {

@@ -3,7 +3,7 @@ package bufferpool_test
 import (
 	"testing"
 
-	"github.com/sanbsy/goby/bufferpool"
+	"github.com/sanbsy/gopkg/bufferpool"
 	"github.com/stretchr/testify/assert"
 )
 
